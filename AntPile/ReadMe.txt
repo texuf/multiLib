@@ -1,4 +1,4 @@
-Hello,
+Oh Hello,
 
 Welcome to my Flash TDD Project Template. I will be adding instructions here on 
 how to use this file but for now just copy build.template.properties to
